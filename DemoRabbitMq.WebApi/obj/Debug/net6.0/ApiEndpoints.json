@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "DemoKafka.WebApi.Controllers.OrderController",
+    "Method": "register",
+    "RelativePath": "api/Order/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DemoKafka.Application.Dtos.RegisterOrder.RegisterOrderRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

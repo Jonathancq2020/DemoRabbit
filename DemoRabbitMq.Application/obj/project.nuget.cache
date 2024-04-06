@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OVXsFkmp3JKWFQx8Cc/+yZ6Y0nDpm9q1FJ0uoadkAlcy5yaCWMooIeFFBELN4EuOmCj+tri/ptwBnEeLOyQbCA==",
+  "success": true,
+  "projectFilePath": "D:\\CURSOS\\Lite Thinking\\kafka\\DemoRabbitMq\\DemoRabbitMq\\DemoRabbitMq.Application\\DemoRabbitMq.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sistema\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Sistema\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Sistema\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

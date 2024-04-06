@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hhSg9B7gsmIyK4zbYc0Dk658Q3HdC1ip9caT3jgT/Vs=",
+  "Source": "DemoRabbitMq.WebApi",
+  "BasePath": "_content/DemoRabbitMq.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
