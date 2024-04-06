@@ -87,8 +87,7 @@
               "RelativeToolTip": "DemoRabbitMq.Services\\Services\\NotificarCompraService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T06:21:16.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T06:21:16.59Z"
             },
             {
               "$type": "Document",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "DemoRabbitMq.Services\\Services\\ValidateProductStockService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T06:21:05.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T06:21:05.991Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "DemoRabbitMq.Services\\Plublish\\NotificarCompraProducer.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAswCQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T06:20:42.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T06:20:42.278Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "DemoRabbitMq.Services\\Subscribe\\TiendaSubscribe.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T06:20:37.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T06:20:37.856Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "DemoRabbitMq.Services\\DependencyContainer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T06:17:02.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T06:17:02.407Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "DemoRabbitMq.Services\\Services\\SendEmailService.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAwwBkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T06:16:41.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T06:16:41.168Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "DemoRabbitMq.Consumer\\Consumers\\CompraConsumer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T06:32:29.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T06:32:29.215Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "DemoRabbitMq.DomainServices\\Interfaces\\Services\\ISendEmailService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T06:15:32.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T06:15:32.851Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "DemoRabbitMq.Services\\Subscribe\\NotificarCompraSubscribe.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAgwDcAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T06:14:03.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T06:14:03.84Z"
             },
             {
               "$type": "Document",
@@ -204,8 +195,7 @@
               "RelativeToolTip": "DemoRabbitMq.DomainServices\\Interfaces\\Services\\INotificarCompraSubscribe.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T06:13:58.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T06:13:58.179Z"
             }
           ]
         }
